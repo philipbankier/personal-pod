@@ -2,7 +2,7 @@
 
 ## Overview
 
-In today’s digital era, consumers face an overwhelming deluge of data—from social media, news outlets, academic journals, and countless newsletters—leading to information overload. Traditional curation methods, such as generic newsletters or off-the-shelf podcasts, rarely address individual interests, leaving users to sift through vast amounts of irrelevant content.
+Consumers face an overwhelming deluge of data—from social media, news outlets, academic journals, and countless newsletters—leading to information overload. Traditional curation methods, such as generic newsletters or off-the-shelf podcasts, rarely address individual interests, leaving users to sift through vast amounts of irrelevant content.
 
 **The Problem:**  
 - **Information Overload:** Users are bombarded with unfiltered data, making it difficult to extract meaningful insights.  
